@@ -1,0 +1,12 @@
+C:\Users\chethushrushti\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+C:\Users\chethushrushti\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\chethushrushti\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\chethushrushti\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.xml
+C:\Users\chethushrushti\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.vbprojAssemblyReference.cache
+C:\Users\chethushrushti\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.Form1.resources
+C:\Users\chethushrushti\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.Resources.resources
+C:\Users\chethushrushti\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.vbproj.GenerateResource.cache
+C:\Users\chethushrushti\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.vbproj.CoreCompileInputs.cache
+C:\Users\chethushrushti\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+C:\Users\chethushrushti\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.xml
+C:\Users\chethushrushti\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
